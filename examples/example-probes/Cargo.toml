@@ -93,3 +93,8 @@ required-features = ["probes"]
 name = "connection_tracer"
 path = "src/connection_tracer/main.rs"
 required-features = ["probes"]
+
+[[bin]]
+name = "xdp-udp-port-redirect"
+path = "src/xdp_udp_port_redirect/main.rs"
+required-features = ["probes"]

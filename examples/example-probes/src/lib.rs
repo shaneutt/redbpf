@@ -19,3 +19,4 @@ pub mod p0f;
 pub mod tasks;
 pub mod tcp_lifetime;
 pub mod vfsreadlat;
+pub mod xdp_udp_port_redirect;
